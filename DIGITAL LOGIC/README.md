@@ -1,1 +1,2 @@
-aaaaa
+# Digital Logic
+I discovered in this course that digital electronics forms the basis of all microprocessor-based systems, such as those found in industrial control systems, computers, robotics, and cars. Besides, this course gives me a thorough understanding of a lot of significant ideas, elements, and resources. Moreover, I can receive current instruction in digital foundations, ranging from fundamental ideas to programmable logic devices. In addition, I've participated in laboratory experiments that provide me with hands-on experience with the simulator software, real devices, and circuits that are taught in the classroom. Through practical experience, I can learn more effectively.
