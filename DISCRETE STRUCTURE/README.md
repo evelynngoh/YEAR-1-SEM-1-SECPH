@@ -1,0 +1,3 @@
+# Discrete Structure
+This course taught me the basics and applications of discrete structure in computer science. This semester, I have studied set theory, proof strategies, relations, functions, recurrence relations, counting techniques, graph theory, trees, and finite automata. 
+By the end of the course, I should be able to use deterministic finite automata and finite state machines to model electronic devices and problems; use recurrence relations and counting techniques to analyze and solve problems; apply graph theory and trees to real-world problems and use set theory, relations, and functions to solve computer science problems. 
